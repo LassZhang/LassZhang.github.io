@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 归档s
-categories:归档
+categories:articles
 description:第一篇试着上传一下
 ---
 
